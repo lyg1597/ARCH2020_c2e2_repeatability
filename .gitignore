@@ -1,0 +1,5 @@
+.vscode/*
+*.o
+results.csv
+test.py
+Note
