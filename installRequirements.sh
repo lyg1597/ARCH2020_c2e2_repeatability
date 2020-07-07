@@ -37,7 +37,7 @@ make
 make install
 cd ..
 
-wget ftp://ftp.cs.unipr.it/pub/ppl/releases/1.2/ppl-1.2.tar.gz
+https://www.bugseng.com/products/ppl/download/ftp/releases/1.2/ppl-1.2.tar.gz
 tar -xhvf ppl-1.2.tar.gz
 cd ppl-1.2
 ./configure
